@@ -14,6 +14,10 @@
 		{
 			"Name": "GitSourceControl",
 			"Enabled": true
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
 		}
 	]
 }

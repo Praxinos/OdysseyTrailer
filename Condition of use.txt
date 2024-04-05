@@ -1,0 +1,16 @@
+Condition of use
+-----------------
+
+This project and its content is the entire property of Praxinos ( https://praxinos.coop ).
+This project and its content can be used for the sole purpose of self-learning the software Odyssey ( https://praxinos.coop/odyssey ).
+Under no circumstances this project and its content shall be used for any other purposes, whether commercial or non-commercial.
+It is strictly forbidden to share, distribute or copy an original or modified version of this project and its content without prior authorisation of Praxinos.
+To contact Praxinos, please use this email address: contact@praxinos.coop
+
+------------------
+
+Credits:
+
+Environment: Tyler Smith
+Animation: Gary Gabriel
+Compositing: Elodie Moog

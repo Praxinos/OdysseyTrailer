@@ -19,6 +19,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "GitSourceControl",
+			"Enabled": true
 		}
 	]
 }

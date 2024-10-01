@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "odyssey-1-beta",
+	"EngineAssociation": "odyssey-2",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,12 +13,11 @@
 		},
 		{
 			"Name": "USDImporter",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
+			"Enabled": true
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
 		},
 		{
 			"Name": "GitSourceControl",

@@ -2,6 +2,8 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Plugins
+Config
 .vscode
 .vs
 *.VC.db
@@ -14,4 +16,3 @@ Saved
 *.xcworkspace
 *.DS_Store
 *.gitattributes
-Plugins

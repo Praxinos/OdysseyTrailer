@@ -16,3 +16,4 @@ Config/**
 *.xcworkspace
 *.DS_Store
 *.gitattributes
+*.ini

@@ -3,7 +3,13 @@ DerivedDataCache
 Intermediate
 Saved
 Plugins
-Config/**
+
+Config
+*.ini
+Config/DefaultEngine.ini
+Config/EditorLayout.ini
+
+
 .vscode
 .vs
 *.VC.db
@@ -16,4 +22,3 @@ Config/**
 *.xcworkspace
 *.DS_Store
 *.gitattributes
-*.ini
